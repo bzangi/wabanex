@@ -1,5 +1,7 @@
 # Wabanex
 
+Projeto desenvolvido na Next Level Week - Together, promovida pela Rocketseat, com o intuito de aprender sobre API's REST
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
